@@ -1,0 +1,86 @@
+/* img{
+  height: 100px;
+} */
+.container-flud
+{
+  background-color: #3D30A2;
+}
+.me{
+  height: 10px;
+}
+.tain{
+  display: flex;
+  justify-content: center;
+
+}
+.pizza{
+  flex-direction: column;
+  flex-basis:100;
+  font-family: fantasy;
+  font-style: italic;
+
+}
+.container{
+  display: flex;
+  gap:100px;
+  justify-content: center;
+}
+.top{
+  flex-direction: row;
+  flex-basis: 100px;
+}
+
+.middle{
+  flex-direction: row;
+  flex-basis: 100px;
+}
+.down{
+  flex-direction: row;
+  flex-basis: 100px;
+}
+.contain{
+  display: flex;
+  gap:100px;
+  justify-content: center;
+
+}
+.con{
+  justify-content: center;
+  text-align:center;
+  font-family: fantasy;
+  font-style: italic;
+
+}
+
+
+.cont{
+  display: flex;
+  gap:100px;
+  justify-content: center;
+}
+
+.left{
+  flex-direction: row;
+  flex-basis: 100px;
+  text-align: center;
+}
+.centre{
+  flex-direction: row;
+  flex-basis: 100px;
+  text-align: center;
+}
+
+hr{
+  border-style: solid;
+}
+h5{
+  font-size: 100px;
+}
+.right{
+  flex-direction: row;
+  flex-basis: 100px;
+  text-align: center;
+}
+.price{
+  font-size: 50px;
+}
